@@ -1,3 +1,0 @@
-[submodule "zephyr-sync"]
-	path = zephyr-sync
-	url = https://github.com/ctco/zephyr-sync.git
